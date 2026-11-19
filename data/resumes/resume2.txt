@@ -1,0 +1,12 @@
+Name: Sneha Sharma
+Email: sneha.sharma@gmail.com
+
+Skills:
+Python, SQL, Excel, Java, HTML, CSS
+
+Education:
+Bachelor of Computer Science
+
+Projects:
+Website Development
+Database Management System

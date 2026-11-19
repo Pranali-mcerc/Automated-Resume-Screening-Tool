@@ -1,0 +1,13 @@
+Name: Amit Patil
+Email: amit.patil@gmail.com
+
+Skills:
+Python, SQL, Pandas, NumPy, Excel, Power BI,
+Machine Learning, Data Analysis, Matplotlib, Scikit-learn
+
+Education:
+Bachelor of Engineering in Computer Science
+
+Projects:
+Sales Data Analysis using Python
+Machine Learning Prediction Model

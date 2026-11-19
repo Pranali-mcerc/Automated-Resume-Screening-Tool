@@ -1,0 +1,18 @@
+Name: Rahul Sharma
+Email: rahul.sharma@gmail.com
+Phone: 9876543210
+
+Career Objective:
+Seeking a Python Developer position.
+
+Skills:
+Python, SQL, Pandas, NumPy, Machine Learning,
+Data Analysis, Power BI, Excel
+
+Education:
+Bachelor of Engineering in Artificial Intelligence
+and Data Science
+
+Projects:
+Sales Data Analysis using Python
+Machine Learning House Price Prediction

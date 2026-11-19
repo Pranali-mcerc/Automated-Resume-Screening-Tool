@@ -1,0 +1,17 @@
+Job Title: Python Data Analyst
+
+Job Description:
+
+We are looking for a Python Data Analyst with strong analytical and programming skills.
+
+Required Skills:
+Python, SQL, Pandas, NumPy, Excel, Power BI, Machine Learning, Data Analysis, Matplotlib, Scikit-learn.
+
+Responsibilities:
+- Analyze datasets using Python.
+- Write SQL queries to extract data.
+- Perform data cleaning and preprocessing.
+- Create dashboards using Power BI.
+- Apply Machine Learning techniques.
+- Generate insights from data.
+- Create reports and visualizations.

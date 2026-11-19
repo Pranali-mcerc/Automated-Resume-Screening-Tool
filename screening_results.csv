@@ -1,0 +1,4 @@
+Rank,Name,Email,Resume,Matched Skills,Missing Skills,Skill Score,Similarity Score,Final Score
+1,Amit Patil,amit.patil@gmail.com,resume1.txt,"Python, SQL, Pandas, NumPy, Matplotlib, Machine Learning, Data Analysis, Power BI, Excel, Scikit-learn",,100.0,43.84,83.15
+2,Rahul Verma,rahul.verma@gmail.com,resume3.txt,"Python, SQL, Pandas, NumPy, Matplotlib, Machine Learning, Data Analysis, Scikit-learn","Power BI, Excel",80.0,38.3,67.49
+3,Sneha Sharma,sneha.sharma@gmail.com,resume2.txt,"Python, SQL, Excel","Pandas, NumPy, Matplotlib, Machine Learning, Data Analysis, Power BI, Scikit-learn",30.0,8.7,23.61

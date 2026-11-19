@@ -1,0 +1,14 @@
+Name: Rahul Verma
+Email: rahul.verma@gmail.com
+
+Skills:
+Python, Machine Learning, Pandas, NumPy,
+Data Analysis, Matplotlib, Scikit-learn, SQL
+
+Education:
+Bachelor of Engineering in Artificial Intelligence
+
+Projects:
+Customer Churn Prediction
+Data Analysis using Python
+Machine Learning Project
